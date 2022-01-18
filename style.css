@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.menu{
+    background:#71eea5;
+}
+.full-website{
+    text-align: center;
+    width: 1024px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.conteiner{
+    background: #3498db;
+
+}
+.futer{
+    background:#8e44ad;
+}
+.futer-bottom{
+    background: #f1c40f;
+}
+.img{
+    max-width: 100%;
+    margin: -5px;
+}
+.op{
+    padding: 15px 0px;
+}
+.opx{
+    padding: 55px;
+}
